@@ -1,0 +1,54 @@
+---storage service ---
+1) simple storage service (S3)
+2) amazon glacier storage service
+3)Elastic block store (EBS)
+4) Elastic file system (EFS)
+5) Storage Gateway
+5) Snowball 
+
+
+Database service
+
+1) Relational Database Service (RDS)(postgres,mysql,arora)
+2) DynamoDB (noSQL)
+3) RedShit (data warehouse)
+4) ElastiCache 
+5) Data Migration Service (DMS) (from one database to another)
+6) Neptune (graph database service)
+
+
+
+AWS Compute Service
+
+
+1) Elastic compute cloud  (EC2)
+2) EC2 autoscaling 
+3) Amazon lightsail 
+4) Elastic Container Service (ECS)(docker)
+5) AWS lambda Service (serverless service)
+
+
+AWS Management Tools 
+
+1) CloudFormation 
+2) AWS Service catalog
+3) CloudWatch (monitoring service)
+4) AWS System Manager 
+5) CouldTrail  (monitoring the logs )
+6) AWS Config 
+7) OpsWork (chef ,puppet)
+8) Trusted Adviser 
+
+
+
+Application integration 
+
+
+1) step functions
+2) Simple Workflow Service
+3) Simple notification service (SNS)
+4) Simple Queue Service (SQS)
+
+
+
+
